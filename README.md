@@ -1,4 +1,4 @@
-# pddl-latex-listings
+# latex-listings-pddl
 A syntax highlighting support for PDDL in the LaTeX listings package.
 
 ## How to Set Up
@@ -12,7 +12,7 @@ A syntax highlighting support for PDDL in the LaTeX listings package.
 3. Include the [`lstlang-pddl.sty`](lstlang-pddl.sty) in the `lstlang0.sty`.
     - Add
         ```latex
-        \input{pddl-latex-listings/lstlang-pddl.sty}
+        \input{latex-listings-pddl/lstlang-pddl.sty}
         ```
         in the `lstlang0.sty`.
 
